@@ -1,9 +1,7 @@
 
 
-<img class="yuvarlak" align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" height="250" />
-img.yuvarlak {
-    border-radius: 50%;
-} 
+<img  align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" height="250" border-radius="50%" />
+
 
 ## Hi There, I'm Nur. :wave:
 
