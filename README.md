@@ -1,7 +1,7 @@
 <img src=" https://media.giphy.com/media/CW27AW0nlp5u0/giphy.gif" align="right" withd="400" height="250">
 
 ## Hi There, I'm Nur. :wave:
-<hr
+
 
 Jr.Front-End Developer
 - :seedling:  I’m currently learning React.js
