@@ -7,7 +7,7 @@
 
 
 Jr. Software Developer
-- :seedling:  I’m currently learning React.js
+- :seedling:  I’m currently learning React.js, Angular
 - :mailbox_with_mail: How to reach me nurceylan96@gmail.com
 - :thought_balloon: Ask me about Js,HTML5,CSS3,MSSQL,WebAPI
 
